@@ -1,10 +1,8 @@
 # EmprendeGO
 # Descripcion
-EmprendeGO es una app con inteligencia artificial creada para emprendedores que quieren vender más, ahorrar tiempo y hacer crecer su negocio sin complicarse. Con esta herramienta, cualquier emprendedor puede generar descripciones atractivas, precios sugeridos, promociones, hashtags, respuestas para clientes, catálogos digitales y contenido para redes sociales en pocos segundos.
+EmprendeGO es una aplicación de ventas inteligentes para pequeñas empresas y emprendedores. Permite registrar productos o servicios, crear un catálogo digital, recibir pedidos de clientes, gestionar ventas y visualizar ingresos mediante un dashboard.
 
-La app convierte una idea o un producto en una estrategia de venta lista para publicar, ayudando al emprendedor a verse más profesional, atender mejor a sus clientes y aumentar sus oportunidades de venta. Además, cuenta con un dashboard donde se pueden controlar ventas, productos e ingresos de forma clara y sencilla.
-
-EmprendeGO no solo ayuda a vender productos, ayuda a transformar pequeños negocios en marcas más fuertes, modernas y competitivas.
+Además, integra inteligencia artificial para ayudar al emprendedor a generar descripciones atractivas, precios sugeridos, hashtags, promociones, respuestas automáticas para clientes y contenido para redes sociales. De esta manera, la app no solo permite vender, sino también mejorar la forma en que el negocio se promociona y atiende a sus clientes.
 # Integrantes
 - Jonathan Adrian Sanchez Velasco
 - Ayelen Jadiye Cori Canaviri
